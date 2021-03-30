@@ -15,7 +15,6 @@ Yes .. You can see :
 **Windows**
 ```
 Python Required Version : https://www.python.org/downloads/release/python-391/
-Mozilla is Required : https://www.mozilla.org/firefox/download/thanks/
 Click on "Yahoo Email Valid Checker v1.exe"
 ```
 
